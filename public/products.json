@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Nike",
+      "price": 3800,
+      "img": "images/image1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nike",
+      "price": 4399,
+      "img": "images/image2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Adidas",
+      "price": 3799,
+      "img": "images/image3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Vans",
+      "price": 4600,
+      "img": "images/image4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Vans",
+      "price": 3699,
+      "img": "images/image5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Nike",
+      "price": 4999,
+      "img": "images/image6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Adidas",
+      "price": 5799,
+      "img": "images/image7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Adidas",
+      "price": 2299,
+      "img": "images/image8.jpg"
+    }
+]
